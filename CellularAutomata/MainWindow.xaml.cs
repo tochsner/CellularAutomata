@@ -20,8 +20,8 @@ namespace CellularAutomata
     /// </summary>
     public partial class MainWindow : Window
     {
-        int numStates = 2;
-        int fieldSize = 300;
+        int numStates = 8;
+        int fieldSize = 256;
         double lambda = 0.1;        
 
         volatile Key keyPressed = Key.None;
@@ -30,17 +30,6 @@ namespace CellularAutomata
         IAutomata automata;
 
         DrawingVisual visual = null;
-
-        public MainWindow()
-        {
-            InitializeComponent();
-
-            // rule = new RandomLangtonRule(numStates, lambda);
-            rule = new GameOfLife();
-            automata = new BasicCellularAutomata(fieldSize, numStates, rule);
-
-            automata.Initialize();            
-        }
 
         protected override Visual GetVisualChild(int index)
         {
@@ -52,6 +41,11 @@ namespace CellularAutomata
             visual = new DrawingVisual();
 
             this.AddVisualChild(visual);
+
+            rule = new RandomLangtonRule(numStates, lambda);
+            automata = new BasicCellularAutomata(fieldSize, numStates, rule);
+
+            automata.Initialize();
 
             Draw(automata.GetField());
 
@@ -84,7 +78,7 @@ namespace CellularAutomata
                         automata.Iterate();
                     }
 
-                    System.Threading.Thread.Sleep(75);
+                    System.Threading.Thread.Sleep(100);
                 }
             });
 
