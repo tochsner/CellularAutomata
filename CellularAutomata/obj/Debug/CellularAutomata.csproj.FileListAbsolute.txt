@@ -1,0 +1,15 @@
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.exe.config
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.exe
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\bin\Debug\CellularAutomata.pdb
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csprojAssemblyReference.cache
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\MainWindow.g.cs
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\App.g.cs
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata_MarkupCompile.cache
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata_MarkupCompile.lref
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\MainWindow.baml
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.g.resources
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.Properties.Resources.resources
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csproj.GenerateResource.cache
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.exe
+C:\Users\tobia\Documents\Programmieren\Neuroevolution\CellularAutomata\CellularAutomata\obj\Debug\CellularAutomata.pdb
